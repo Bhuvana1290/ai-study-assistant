@@ -1,0 +1,34 @@
+# 🔹 Virtual Environment
+venv/
+env/
+ENV/
+
+# 🔹 Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Machine Learning models
+*.pkl
+*.joblib
+
+# 🔹 Flask files
+instance/
+.webassets-cache
+
+# 🔹 Environment variables (secrets)
+.env
+
+# 🔹 VS Code settings
+.vscode/
+
+# 🔹 System files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
+
+# 🔹 Temporary files
+*.tmp
